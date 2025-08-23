@@ -25,4 +25,6 @@ This project lets you play the classic game against the computer, keeping track 
 
 ---
 
-## 📂 Project Structure
+## 📜 License
+This project is **open-source** and free to use.  
+Feel free to modify, improve, and share it! 🚀
